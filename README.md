@@ -101,7 +101,7 @@ flowchart TD
 
 ## 🧑‍💻 Author
 
-**Your Name Here**
+**MASUOD NAJEI**
 
 ---
 
